@@ -1,1 +1,6 @@
-
+gcc -g p1original.c 
+ ./a.out
+Enter the value of base and height
+2
+4
+The AREA of the triangle is 4.000000 
